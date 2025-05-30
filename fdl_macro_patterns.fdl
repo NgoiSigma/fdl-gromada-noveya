@@ -1,0 +1,75 @@
+# 🧩 FDL MACRO PATTERNS
+
+This file contains reusable semantic logic blocks (macros) for constructing complex FDL flows. Each macro follows the canonical FDL block structure and can be imported or referenced in agents, decision trees, or resonant programs.
+
+---
+
+## 🔁 Macro: dialectic\_resolution
+
+```fdl
+@block "Macro::DialecticResolution"
+init:
+  intent: "resolve duality between opposing forces"
+
+expand:
+  define: A = proposition_1
+  define: B = proposition_2
+
+tension:
+  contradiction: A ∧ ¬B → dual_state
+  resolution: derive_c(A, B) → Synthesis_C
+
+synthesize:
+  output: resolved_thesis = Synthesis_C
+```
+
+---
+
+## 🔁 Macro: ethical\_routing
+
+```fdl
+@block "Macro::EthicalRouting"
+init:
+  intent: "choose action path based on ethical weight"
+
+expand:
+  assess: action_set by impact_score, ethical_tag
+
+tension:
+  filter: remove actions with tag == "exploitative"
+
+synthesize:
+  select: top_ranked_action → execution_path
+```
+
+---
+
+## 🔁 Macro: feedback\_loop\_sync
+
+```fdl
+@block "Macro::FeedbackLoopSync"
+init:
+  intent: "stabilize loop through resonance feedback"
+
+expand:
+  detect: deviation_signals from environment
+  match: ideal_signal_pattern
+
+tension:
+  if deviation > threshold then apply_resonant_adjustment
+
+synthesize:
+  output: harmonic_state ← loop_update()
+```
+
+---
+
+## 🔗 USAGE
+
+* Import via compiler into FDL programs
+* Adaptable to any logic structure or AI-agent
+* Semantically tagged for graph engines
+
+---
+
+> Macros are **resonant shapes** — they live within the field and bring rhythm to logic.
