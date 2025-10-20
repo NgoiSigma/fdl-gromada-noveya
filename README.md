@@ -40,7 +40,7 @@ pip install -r requirements.txt  # optional dependencies
 
 ## 🛡 LICENSE
 
-This project is released under the **Apache License 2.0**.
+This project is released under the **AGPL-3.0-only**.
 See `LICENSE` for more information.
 
 > Note: Semantic identity and symbolic artifacts (e.g., `taurus_sigil.svg`) are bound by ethical and symbolic use principles. Contact maintainers for clarification.
@@ -73,7 +73,7 @@ To create a **conscious architecture of collective intelligence**, where technol
 
 ## License & Methodology
 
-This codebase is licensed under **Apache 2.0**.  
+This cThis codebase is licensed under **AGPL-3.0-only**.
 It incorporates the **Formally‑Dialectical Logic (FDL)** architecture by NGOI Sigma / NOVEYA. By contributing, forking, or using this repository, you agree to:
 
 - Credit the original methodology author;
